@@ -21,12 +21,23 @@
   
  </div>
    
+  <img align="right" alt="doguinho" height="280"  width="280"  style="border-radius:55px;" src="https://media.giphy.com/media/sebDh8sociJJb7eUU3/giphy.gif">
   
+       
    ##
   <a href="https://github.com/Projeto-Sirius">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Projeto-Sirius&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Projeto-Sirius&layout=compact&langs_count=7&theme=dark"/> </h4>           
+
+  
        
-       
-       
+   
+   ## A ONG Erazon 🌎
+   Erazon é uma organização não governamental que em parceria com o projeto Sirius vai trabalhar para implantar energia renovável, em regiões periféricas e carentes.
+   
+   
+   ## Nossos colaboradores :
+   
+
+
     
