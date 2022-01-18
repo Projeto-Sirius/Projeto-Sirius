@@ -36,8 +36,9 @@
    Erazon é uma organização não governamental que em parceria com o projeto Sirius vai trabalhar para implantar energia renovável, em regiões periféricas e carentes.
    
    
-   ## Nossos colaboradores :
-   
+   ## Nossos Desenvolvedores:
 
+| [<img src="https://avatars.githubusercontent.com/u/86813022?v=4" width=115><br><sub> Giulia Castro</sub>](https://github.com/GiuliaCastroo) |  [<img src="https://avatars.githubusercontent.com/u/95311071?v=4" width=115><br><sub>Marlon Maciel</sub>](https://github.com/Marlon2103) |  [<img src="https://avatars.githubusercontent.com/u/95704694?v=4" width=115><br><sub>Marcos Vinicus</sub>](https://github.com/viniciusmarkdev) | [<img src="https://avatars.githubusercontent.com/u/75185802?v=4" width=115><br><sub> Beatriz Carvalho </sub>](https://github.com/Biah98) |
+| :---: | :---: | :---: | :---: 
 
     
