@@ -38,8 +38,8 @@
    
    ## Nossos Desenvolvedores:
 
-| [<img src="https://avatars.githubusercontent.com/u/86813022?v=4" width=115><br><sub> Giulia Castro</sub>](https://github.com/GiuliaCastroo) |  [<img src="https://avatars.githubusercontent.com/u/95311071?v=4" width=115><br><sub>Marlon Maciel</sub>](https://github.com/Marlon2103) |  [<img src="https://avatars.githubusercontent.com/u/95704694?v=4" width=115><br><sub>Marcos Vinicus</sub>](https://github.com/viniciusmarkdev) | [<img src="https://avatars.githubusercontent.com/u/75185802?v=4" width=115><br><sub> Beatriz Carvalho </sub>](https://github.com/Biah98) |
-| :---: | :---: | :---: | :---: 
+| [<img src="https://avatars.githubusercontent.com/u/86813022?v=4" width=115><br><sub> Giulia Castro</sub>](https://github.com/GiuliaCastroo) |  [<img src="https://avatars.githubusercontent.com/u/95311071?v=4" width=115><br><sub>Marlon Maciel</sub>](https://github.com/Marlon2103) |  [<img src="https://avatars.githubusercontent.com/u/95704694?v=4" width=115><br><sub>Marcos Vinicus</sub>](https://github.com/viniciusmarkdev) | [<img src="https://avatars.githubusercontent.com/u/75185802?v=4" width=115><br><sub> Beatriz Carvalho</sub>](https://github.com/Biah98) | [<img src="https://avatars.githubusercontent.com/u/95310379?v=4" width=115><br><sub> Rodrigo Viana</sub>](https://github.com/Rodrigo667k) | [<img src="https://avatars.githubusercontent.com/u/94928551?v=4" width=115><br><sub> Alexandre Amorim</sub>](https://github.com/alexamorim17) |
+| :---: | :---: | :---: | :---: | :---: | :---:
 
    
    <h4 align="center"> 
