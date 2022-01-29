@@ -1,6 +1,6 @@
 <h1 align="center">Olá, Somos o Projeto Sirius ✨</h1>
 
-<h4 align="center">
+<h3 align="center">
 <img align="center"  height="350"  alt="gif-ju" src="https://media.giphy.com/media/hLYRBxb1h2jOHhZvtK/giphy.gif">
 
 ##
@@ -42,9 +42,8 @@
 | :---: | :---: | :---: | :---: | :---: | :---:
 
    
-   <h4 align="center"> 
+   <h3 align="center"> 
 
-      
       🚧  Projeto em construção  🚧
 
-   </h4>
+   </h3>
