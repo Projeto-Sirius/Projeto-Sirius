@@ -1,7 +1,7 @@
 <h1 align="center">Olá, Somos o Projeto Sirius ✨</h1>
 
 <h3 align="center">
-<img align="center"  height="350"  alt="gif-ju" src="https://media.giphy.com/media/hLYRBxb1h2jOHhZvtK/giphy.gif">
+<img align="center"  height="450" width="860"  alt="banner projeto" src="https://i.imgur.com/pLEpIbs.png">
 
 ##
 
@@ -21,7 +21,7 @@
   
  </div>
    
-  <img align="right" alt="doguinho" height="380"  width="380"  style="border-radius:55px;" src="https://media.giphy.com/media/sHaKPdIuq7Q7jGzFRe/giphy.gif">
+  <img align="right" alt="doguinho" height="380"  width="380" src="https://media.giphy.com/media/cKSzOUT4e82UZ4n1yN/giphy.gif">
   
        
    ##
